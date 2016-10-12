@@ -11,11 +11,10 @@ public class Subwoofer_Boxes
 		
 		System.out.println("Enter the lenght in inches:");
 		double length = keyboard.nextDouble();
-
+		
 		System.out.println("Enter the width in inches:");
 		double width = keyboard.nextDouble();
-		
-		Subwoofer_Boxes calVol = new Subwoofer_Boxes();
+
 		System.out.println("Your volume is " + calcVol(height, length, width) + " ft.");
 		
 		
