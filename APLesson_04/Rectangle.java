@@ -20,7 +20,7 @@ public class Rectangle
 	
 	public static void calcPerim()
 	{
-		perimeter= (l+w);
+		perimeter= 2*(l+w);
 	}
 	
 	public static void print()
