@@ -33,7 +33,7 @@ public class Average
 	
 	public static void print()
 	{
-		System.out.printf("The average of " + num1 + ", " + num2 +", and "  + num3 + " is %5.5f .", average);
+		System.out.printf("The average of " + num1 + ", " + num2 +", and "  + num3 + " is %5.5f.", average);
 	}
 }
 

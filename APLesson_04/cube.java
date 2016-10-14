@@ -24,6 +24,6 @@ public class cube
 	
 	public static void print()
 	{
-		System.out.printf("The surface area of acube whose sides are " + side + " in length is %5.5f .", surfaceArea);
-	}
+		System.out.printf("The surface area of a cube whose sides are " + side + " in length is %5.5f .", surfaceArea);
+	} 
 }
