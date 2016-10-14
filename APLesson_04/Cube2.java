@@ -12,7 +12,7 @@ public class Cube2
 		
 		double surfaceArea = calcSurf(side);
 		
-		System.out.printf("The surface area of acube whose sides are " + side + " in length is %5.5f .", surfaceArea);
+		System.out.printf("The surface area of a cube whose sides are " + side + " in length is %5.5f .", surfaceArea);
 	}
 	
 	public static double calcSurf(double side)
